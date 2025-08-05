@@ -1,0 +1,337 @@
+{
+    "courses": [
+        {
+            "course_id": "AI101",
+            "title": "AI for Beginners",
+            "description": "An introduction to the fundamentals of Artificial Intelligence.",
+            "objectives": [
+                "Understand basics of AI",
+                "Learn about ML and DL",
+                "Build basic models"
+            ],
+            "prerequisites": [
+                "Basic Python"
+            ],
+            "schedule": {
+                "timings": "Mon & Wed, 6PM - 8PM",
+                "duration": "6 weeks",
+                "session_dates": [
+                    "2025-08-01",
+                    "2025-09-15"
+                ]
+            },
+            "syllabus": [
+                {
+                    "week": 1,
+                    "topics": [
+                        "Introduction to AI",
+                        "History"
+                    ]
+                },
+                {
+                    "week": 2,
+                    "topics": [
+                        "Machine Learning Basics",
+                        "Supervised Learning"
+                    ]
+                },
+                {
+                    "week": 3,
+                    "topics": [
+                        "Unsupervised Learning",
+                        "Clustering Algorithms"
+                    ]
+                },
+                {
+                    "week": 4,
+                    "topics": [
+                        "Deep Learning",
+                        "Neural Networks"
+                    ]
+                },
+                {
+                    "week": 5,
+                    "topics": [
+                        "AI in Practice",
+                        "Mini Projects"
+                    ]
+                },
+                {
+                    "week": 6,
+                    "topics": [
+                        "Final Assessment",
+                        "Course Recap"
+                    ]
+                }
+            ],
+            "pricing": {
+                "fees": "₹4,999",
+                "discounts": "Early bird 10% off",
+                "payment_plans": [
+                    "One-time",
+                    "2 Installments"
+                ]
+            },
+            "instructor_id": "I100"
+        },
+        {
+            "course_id": "WD202",
+            "title": "Full Stack Web Development",
+            "description": "Become a full stack developer with hands-on projects using HTML, CSS, JS, Node.js, and React.",
+            "objectives": [
+                "Frontend + Backend skills",
+                "RESTful API building",
+                "Deploy apps"
+            ],
+            "prerequisites": [
+                "Basic programming knowledge"
+            ],
+            "schedule": {
+                "timings": "Tue & Fri, 7PM - 9PM",
+                "duration": "8 weeks",
+                "session_dates": [
+                    "2025-08-10",
+                    "2025-10-05"
+                ]
+            },
+            "syllabus": [
+                {
+                    "week": 1,
+                    "topics": [
+                        "HTML & CSS Basics"
+                    ]
+                },
+                {
+                    "week": 2,
+                    "topics": [
+                        "JavaScript Fundamentals"
+                    ]
+                },
+                {
+                    "week": 3,
+                    "topics": [
+                        "DOM & Events",
+                        "Responsive Design"
+                    ]
+                },
+                {
+                    "week": 4,
+                    "topics": [
+                        "Backend with Node.js"
+                    ]
+                },
+                {
+                    "week": 5,
+                    "topics": [
+                        "APIs and Databases (MongoDB)"
+                    ]
+                },
+                {
+                    "week": 6,
+                    "topics": [
+                        "React Basics"
+                    ]
+                },
+                {
+                    "week": 7,
+                    "topics": [
+                        "Final Project Work"
+                    ]
+                },
+                {
+                    "week": 8,
+                    "topics": [
+                        "Deployment & Hosting"
+                    ]
+                }
+            ],
+            "pricing": {
+                "fees": "₹7,500",
+                "discounts": "None",
+                "payment_plans": [
+                    "One-time",
+                    "EMI (3 months)"
+                ]
+            },
+            "instructor_id": "I101"
+        },
+        {
+            "course_id": "DS303",
+            "title": "Data Science with Python",
+            "description": "Master data wrangling, analysis, and machine learning using Python.",
+            "objectives": [
+                "Data analysis",
+                "Visualization",
+                "Model building"
+            ],
+            "prerequisites": [
+                "Intermediate Python"
+            ],
+            "schedule": {
+                "timings": "Sat & Sun, 10AM - 1PM",
+                "duration": "10 weeks",
+                "session_dates": [
+                    "2025-08-05",
+                    "2025-10-15"
+                ]
+            },
+            "syllabus": [
+                {
+                    "week": 1,
+                    "topics": [
+                        "Python Refresher"
+                    ]
+                },
+                {
+                    "week": 2,
+                    "topics": [
+                        "NumPy & Pandas"
+                    ]
+                },
+                {
+                    "week": 3,
+                    "topics": [
+                        "Data Cleaning & EDA"
+                    ]
+                },
+                {
+                    "week": 4,
+                    "topics": [
+                        "Visualization with Matplotlib/Seaborn"
+                    ]
+                },
+                {
+                    "week": 5,
+                    "topics": [
+                        "Stats & Probability for DS"
+                    ]
+                },
+                {
+                    "week": 6,
+                    "topics": [
+                        "ML Algorithms"
+                    ]
+                },
+                {
+                    "week": 7,
+                    "topics": [
+                        "Model Evaluation"
+                    ]
+                },
+                {
+                    "week": 8,
+                    "topics": [
+                        "Capstone Project Planning"
+                    ]
+                },
+                {
+                    "week": 9,
+                    "topics": [
+                        "Project Work"
+                    ]
+                },
+                {
+                    "week": 10,
+                    "topics": [
+                        "Presentation & Feedback"
+                    ]
+                }
+            ],
+            "pricing": {
+                "fees": "₹9,999",
+                "discounts": "Student discount available (15%)",
+                "payment_plans": [
+                    "One-time",
+                    "Installments (2 or 3 months)"
+                ]
+            },
+            "instructor_id": "I102"
+        },
+        {
+            "course_id": "UI404",
+            "title": "UI/UX Design Bootcamp",
+            "description": "Learn to design intuitive and beautiful digital interfaces with tools like Figma.",
+            "objectives": [
+                "User-centric design",
+                "Wireframing",
+                "Prototyping"
+            ],
+            "prerequisites": [
+                "None"
+            ],
+            "schedule": {
+                "timings": "Mon, Wed & Fri, 5PM - 7PM",
+                "duration": "5 weeks",
+                "session_dates": [
+                    "2025-08-20",
+                    "2025-09-25"
+                ]
+            },
+            "syllabus": [
+                {
+                    "week": 1,
+                    "topics": [
+                        "Design Thinking",
+                        "User Research"
+                    ]
+                },
+                {
+                    "week": 2,
+                    "topics": [
+                        "Wireframes",
+                        "User Flow"
+                    ]
+                },
+                {
+                    "week": 3,
+                    "topics": [
+                        "Visual Design",
+                        "Color Theory"
+                    ]
+                },
+                {
+                    "week": 4,
+                    "topics": [
+                        "Prototyping in Figma",
+                        "User Testing"
+                    ]
+                },
+                {
+                    "week": 5,
+                    "topics": [
+                        "Portfolio Project",
+                        "Review"
+                    ]
+                }
+            ],
+            "pricing": {
+                "fees": "₹5,499",
+                "discounts": "Early bird and Student offer 10%",
+                "payment_plans": [
+                    "One-time"
+                ]
+            },
+            "instructor_id": "I101"
+        }
+    ],
+    "instructors": [
+        {
+            "instructor_id": "I100",
+            "name": "Dr. Riya Sharma",
+            "bio": "Ph.D. in Computer Science. 10+ years in AI research and teaching.",
+            "contact": "riya.sharma@example.com"
+        },
+        {
+            "instructor_id": "I101",
+            "name": "Mr. Arjun Mehta",
+            "bio": "Senior Software Engineer at Google. Full Stack Developer and mentor.",
+            "contact": "arjun.mehta@example.com"
+        },
+        {
+            "instructor_id": "I102",
+            "name": "Ms. Tanvi Rao",
+            "bio": "Data Scientist at a Fortune 500 company. Loves teaching and Python!",
+            "contact": "tanvi.rao@example.com"
+        }
+    ]
+}
